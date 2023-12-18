@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RecupRA2MV-A</string>
+    <string name="saludos">Saludos, te doy la bienvenida</string>
+    <string name="genero">Genero(H/M)</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="venta">Venta(€)</string>
+    <string name="pagado">Pagado(€)</string>
+    <string name="cuenta">Cuenta Corriente</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="volver">Volver</string>
+</resources>
